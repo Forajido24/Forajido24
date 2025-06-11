@@ -83,8 +83,8 @@
 <!--icons and links-->
 <div align="center">
 
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/brantlauro/](https://www.instagram.com/duangello24?igsh=MXN2dWJ2b3RzZTF4NQ==))
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.lagg241103)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duangello24?igsh=MXN2dWJ2b3RzZTF4NQ==)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lagg241103@gmail.com)
   
 </div>
 <!--
