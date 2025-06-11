@@ -18,7 +18,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-      <summary><h2 style="display: inline-block">Mientras haya vida, hay oportunidad</h2></summary>
+      <summary><h2 style="display: inline-block">Mientras exista vida, existe oportunidad</h2></summary>
   </ul>
 </div>
 
@@ -81,16 +81,12 @@
 </div>
 
 <!--icons and links-->
-<p align="center">
+<div align="center">
 
-
-<center>
-  <a href="https://www.instagram.com/duangello24?igsh=MXN2dWJ2b3RzZTF4NQ==" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
-  </a>
-</center>
-
-</p>
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/brantlauro/](https://www.instagram.com/duangello24?igsh=MXN2dWJ2b3RzZTF4NQ==))
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.lagg241103)
+  
+</div>
 <!--
 **Forajido24/Forajido24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
