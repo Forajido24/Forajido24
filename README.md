@@ -60,13 +60,13 @@
   </ul>
 </div>
 
-<ul align="center">
+
 |![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|
 |---|
 |![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|
 |![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|
 |![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-</ul>
+
 
 <Br>
 
@@ -83,7 +83,7 @@
 <p align="center">
 
 
-<a href="[https://www.instagram.com/nishant.jangir.1010/](https://www.instagram.com/duangello24?igsh=MXN2dWJ2b3RzZTF4NQ==)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.instagram.com/duangello24?igsh=MXN2dWJ2b3RzZTF4NQ==" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 >
   
 </p>
