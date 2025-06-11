@@ -30,8 +30,6 @@
 
 - ☁️ I've keen interest in Machine Learning and Web programming. So,I'm learning **Python and Javascript**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
 - 💬 Ask me about **Python, C, MySQL , HTML, CSS**
 
 - 📫 Feel free to reach me out **lagg241103@gmail.com**
@@ -63,14 +61,17 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tools I Use with👨🏻‍💻
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,py />
-  </a>
-</p></h2></summary>
+    <li>
+      <h2 style="display: inline-block">Tools I Use 👨🏻‍💻</h2>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py" alt="Python icon" />
+        </a>
+      </p>
+    </li>
   </ul>
 </div>
+
  
 |![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|
 |---|
