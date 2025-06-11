@@ -84,9 +84,12 @@
 <p align="center">
 
 
-<a href="https://www.instagram.com/duangello24?igsh=MXN2dWJ2b3RzZTF4NQ==" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
->
-  
+<center>
+  <a href="https://www.instagram.com/duangello24?igsh=MXN2dWJ2b3RzZTF4NQ==" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
+  </a>
+</center>
+
 </p>
 <!--
 **Forajido24/Forajido24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
