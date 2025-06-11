@@ -57,12 +57,7 @@
 <div id="user-content-toc">
   <ul align="center">
 
-      <h2 style="display: inline-block">Tools I Use 👨🏻‍💻</h2>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py" alt="Python icon" />
-        </a>
-      </p>
+      <h2 style="display: inline-block">Tools I Use 👨🏻‍💻</h2
 
   </ul>
 </div>
