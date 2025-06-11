@@ -61,21 +61,12 @@
 </div>
 
 <div align="center">
-  <ul style="list-style: none; padding: 0;">
-    <li>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow badge">
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy badge">
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly badge">
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge" alt="And More badge">
-    </li>
-  </ul>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow badge">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy badge">
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly badge">
+  <img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge" alt="And More badge">
 </div>
+
 
 
 <Br>
