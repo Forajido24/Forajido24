@@ -43,12 +43,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻
-    <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,py,c,css,discord,figma,firebase,github,html,js,mysql,postman,vscode/>
-  </a>
-</p></h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
