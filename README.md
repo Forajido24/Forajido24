@@ -57,7 +57,7 @@
 <div id="user-content-toc">
   <ul align="center">
 
-      <h2 style="display: inline-block">Tools I Use 👨🏻‍💻</h2
+      <h2 style="display: inline-block">Tools I Use 👨🏻‍💻</h2>
 
   </ul>
 </div>
