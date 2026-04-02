@@ -24,13 +24,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, C, MySQL, HTML, CSS, JavaScript**
+- 🔭 I’m currently working on **Python, C, Java, MySQL, HTML, CSS, JavaScript**
 
 - 🌱 I’m currently learning **the use of Pyhton on Machine Leaning Aplicationns and Use Flutter for mobile Apps**
 
 - ☁️ I've keen interest in Machine Learning and Web programming. So,I'm learning **Python and Javascript**
 
-- 💬 Ask me about **Python, C, MySQL , HTML, CSS**
+- 💬 Ask me about **Python, C, Java, MySQL , HTML, CSS**
 
 - 📫 Feel free to reach me out **lagg241103@gmail.com**
 
